@@ -1,0 +1,5 @@
+# Sphinx extensions
+myst-parser==2.0.0
+
+# Sphinx theme
+furo==2024.1.29
